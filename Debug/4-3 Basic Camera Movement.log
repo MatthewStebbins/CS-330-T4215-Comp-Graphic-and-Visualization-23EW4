@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Wouph\Documents\CS-330\Project 1 week 6\Source.cpp(450,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wouph\Documents\CS-330\Project 1 week 6\Source.cpp(451,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wouph\Documents\CS-330\Project 1 week 6\Source.cpp(455,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wouph\Documents\CS-330\Project 1 week 6\Source.cpp(456,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wouph\Documents\CS-330\Project 1 week 6\Source.cpp(458,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wouph\Documents\CS-330\Project 1 week 6\Source.cpp(459,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wouph\Documents\CS-330\Project 1 week 6\Source.cpp(467,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Wouph\Documents\CS-330\Project 1 week 6\Source.cpp(528,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  4-3 Basic Camera Movement.vcxproj -> C:\Users\Wouph\Documents\CS-330\Project 1 week 6\Debug\4-3 Basic Camera Movement.exe
