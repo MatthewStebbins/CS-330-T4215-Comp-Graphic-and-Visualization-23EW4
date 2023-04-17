@@ -13,3 +13,4 @@ How do I approach developing programs?
 How can computer science help me in reaching my goals?
   How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
   How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
+	
